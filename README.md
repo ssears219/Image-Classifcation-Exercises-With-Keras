@@ -12,6 +12,11 @@ Using section 5.1 in Deep Learning with Python as a guide, I create a ConvNet mo
 
 * Image Classification Exercises with Keras.ipynb - notebook of work
 
+## Tools
+* Python
+* Keras
+* TensorFlow
+
 ## Authors
 
 Samuel Sears @ssears219
